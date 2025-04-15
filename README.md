@@ -36,5 +36,5 @@ Este é um aplicativo simples desenvolvido em Flutter que permite ao usuário **
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/lista_tarefas_flutter.git
+https://github.com/mmendesdev/lista-de-tarefas/tree/main
 cd lista_tarefas_flutter
